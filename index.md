@@ -2,6 +2,7 @@
 
 시행일: 2026년 11월 3일
 운영: 보여요 (개발자: Sangjun Lee) · 문의: boyeoyo2026@gmail.com
+소스 코드(AGPL-3.0): [github.com/Groo-2/didim](https://github.com/Groo-2/didim)
 
 디딤(이하 "앱")은 저시력·시각장애 사용자가 주변의 물건을 찾도록 카메라와 음성으로 방향과 거리를 안내하는 앱입니다.
 이 방침은 앱이 어떤 정보를 다루고, 어디에 보관하며, 어떻게 지울 수 있는지 설명합니다.
@@ -64,3 +65,11 @@
 ## 9. 문의
 
 개인정보에 관한 문의, 삭제 요청은 boyeoyo2026@gmail.com으로 보내 주세요.
+
+## 10. 소스 코드와 라이선스
+
+디딤의 소스 코드는 GNU Affero General Public License v3.0(AGPL-3.0)으로 공개되어 있습니다.
+누구나 앞의 처리 방식을 코드로 직접 확인할 수 있습니다.
+
+- 소스 코드: [github.com/Groo-2/didim](https://github.com/Groo-2/didim)
+- 라이선스 전문: [LICENSE](https://github.com/Groo-2/didim/blob/main/LICENSE)
